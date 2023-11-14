@@ -37,26 +37,25 @@
   "Post":"Sales Manager",
   "Period":"2003-2008"
   }
-  ]
-  
-"Languages":["Russian","English B1"]
+  ],
+"Languages":["Russian","English B1"],
 "Education":"Higher education",
-"Educational institutions"[
+"Educational institutions":[
   {
   "Educational institution name":"Academy of the Ministry of Internal Affairs",
-  "Speciality":"Jurist"
+  "Speciality":"Jurist",
   "Period":"2003-2008"
   },
   {
   "Educational institution name":"Minsk State Higher Radioengineering College",
-  "Speciality":"Technician programmer"
+  "Speciality":"Technician programmer",
   "Period":"1993-1997"
   }
-  ]
+  ],
 "Courses":[
   {
-  "Name of the Course":"Software testing engineer. Basic level",.
+  "Name of the Course":"Software testing engineer. Basic level",
   "Period":"2003"  
   }
-   ]
+  ]
 }
