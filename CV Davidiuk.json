@@ -1,0 +1,62 @@
+{
+"FirstName":"Denis",
+"LastName":"Davidiuk",
+"Date of Birth":"19780914",
+"Age":45,
+"Hobbies":["reading","fishing","motorcycles"],
+"Address":
+  {
+  "Postcode":"223040",
+  "Country":"Republic of Belarus",
+  "City":"Agrotown Lesnoi",
+  "LocalAddress":" Alexandrova str., 6-265"
+  },
+ 
+"Work Experience":[
+  {
+  "Name of company":"Unitary enterprise Moi Okna",
+  "Field of activity":"Production of furniture",
+  "Post":"Installation team leader",
+  "Period":"2017-2020"
+  },	
+  {
+  "Name of company":"Private trade unitary enterprise NaturVita",
+  "Field of activity":"Medicinal herbs wholesale trade",
+  "Post":"Director",
+  "Period":"2015-2017"
+  },
+  {
+  "Name of company":"Individual Entrepreneur",
+  "Field of activity":"Production and sale of furniture",
+  "Post":"Individual Entrepreneur",
+  "Period":"2008-2015"
+  },
+  {
+  "Name of company":"LLC Dialsa",
+  "Field of activity":"Computer and other office equpment trade",
+  "Post":"Sales Manager",
+  "Period":"2003-2008"
+  }
+  ]
+  
+"Languages":["Russian","English B1"]
+"Education":"Higher education",
+"Educational institutions"[
+  {
+  "Educational institution name":"Academy of the Ministry of Internal Affairs",
+  "Speciality":"Jurist"
+  "Period":"2003-2008"
+  },
+  {
+  "Educational institution name":"Minsk State Higher Radioengineering College",
+  "Speciality":"Technician programmer"
+  "Period":"1993-1997"
+  }
+  ]
+"Courses":[
+  {
+  "Name of the Course":"Software testing engineer. Basic level",.
+  "Period":"2003"  
+  }
+   ]
+}
