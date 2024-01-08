@@ -55,7 +55,11 @@
 "Courses":[
   {
   "Name of the Course":"Software testing engineer. Basic level",
-  "Period":"2003"  
+  "Period":"2023"  
+  },
+  {
+  "Name of the Course":"Software testing engineer. Professional level",
+  "Period":"2023"  
   }
   ]
 }
